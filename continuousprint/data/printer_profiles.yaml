@@ -577,3 +577,15 @@ PrinterProfile:
       clearBed: Pause
       finished: Generic Off
     extra_tags: []
+  - name: Creality CR6 SE
+    make: Creality
+    model: CR6 SE
+    width: 235
+    depth: 235
+    height: 250
+    formFactor: rectangular
+    selfClearing: flase
+    defaults:
+      clearBed: Pause
+      finished: Generic Off
+    extra_tags: []
